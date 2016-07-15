@@ -1,15 +1,15 @@
-*Workflow Visio*
+*Workflow Vision*
 =============
 
 
 Workflow converter to Visio supported formats
-http://github.com/Automic-Community/Workflow-Visio
+http://github.com/Automic-Community/Workflow-Vision
 
 <!-- List of attached files -->
 Contents of Solution Package:
 
 						
-								*WorkflowVision_v1-0.zip
+								*WorkflowVision_v1-1.zip
 								
 								*awa_vision1.jpg
 								
@@ -23,6 +23,7 @@ Documenation and Instructions
 
 <p>Annoyed of taking screenshots of your AWA workflows &amp; adding custom information to it? Want to create cool heatmap view's on your workflows? Display archivekeys or other information instead of titles? Then Workflow Visio(n) is the tool for you!</p>
 <p>Workflow Visio(n) is completely&nbsp;free &amp; extremely customizeable. Great for techies to automate workflow documentation.</p>
+<p>See video for a demonstration..</p>
 
 Copyright and License
 ---
